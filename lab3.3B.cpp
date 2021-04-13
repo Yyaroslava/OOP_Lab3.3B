@@ -3,7 +3,7 @@
 #include "LongLong.h"
 
 int main() {
-    LongLong A, B, C;
+    LongLong A, B;
 
     cout << "Enter the first numbers " << endl;
     cin >> A;
